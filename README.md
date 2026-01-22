@@ -8,7 +8,8 @@ This repository contains R scripts for analyzing spatial transcriptomics data us
 
 ## Files
 - `analysis.R`: end-to-end analysis workflow
-- `spatial_plotting_functions.R`: helper functions for spatial visualization
+- `spatial_plotting_functions.R`: function for spatial visualization
+- 'R/": helper functions sourced by the analysis pipeline
 
 ## Notes
 This repository is intended as a portfolio example to demonstrate R coding skills.
