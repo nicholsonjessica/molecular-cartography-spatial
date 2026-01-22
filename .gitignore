@@ -1,0 +1,22 @@
+# OS/editor
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data + big outputs (do not commit)
+data/
+results/
+output/
+*.rds
+*.qs
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.tif
+*.tiff
+*.pdf
+*.png
+*.jpg
